@@ -6,4 +6,3 @@ on:
 jobs:
   dependabot:
     uses: lucas42/.github/.github/workflows/dependabot-auto-merge.yml@main
-    secrets: inherit
