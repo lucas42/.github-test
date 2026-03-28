@@ -5,6 +5,9 @@ on:
   pull_request:
     types: [closed]
 
+permissions:
+  contents: read
+
 jobs:
   auto-merge:
     uses: lucas42/.github/.github/workflows/code-reviewer-auto-merge.yml@fa6177c065517f4c8cb8938730c3bc27ff5c2f0d
