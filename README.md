@@ -83,3 +83,5 @@ Smoke test code-reviewer run 32637165832
 Smoke test code-reviewer run 36951979761
 
 Smoke test code-reviewer run 36952106400
+
+Smoke test no-secrets run 39515293913
